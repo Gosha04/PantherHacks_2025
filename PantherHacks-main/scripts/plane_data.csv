@@ -1,0 +1,276 @@
+,icao_code,model_name,avgSeats,maxSeats,mpg
+0,A109,SABCA A-109,7,8,0.6
+1,A119,DENEL Koala,7,8,0.7
+2,A139,BELL-AGUSTA AB-139,15,15,1.1
+3,A148,Antonov An-148,75,85,3.2
+4,A19N,Airbus A319neo,124,156,2.5
+5,A20N,Airbus A320neo,150,186,2.4
+6,A21N,Airbus A321neo,185,236,2.6
+7,A306,Airbus A300F4-600,Cargo Only,Cargo Only,5.5
+8,A310,Airbus A310,280,280,5.0
+9,A319,Airbus A319,124,156,2.7
+10,A320,Airbus A320,150,186,2.7
+11,A321,Airbus A321,185,236,2.9
+12,A330,Airbus A330,277,440,5.0
+13,A332,Airbus A330-200,246,406,4.9
+14,A333,Airbus A330-300,277,440,5.2
+15,A338,Airbus A330-800,220,406,4.5
+16,A339,Airbus A330-900,287,440,4.6
+17,A343,Airbus A340-300,277,440,6.0
+18,A346,Airbus A340-600,326,475,6.5
+19,A359,Airbus A350-900,300,440,4.1
+20,A35K,Airbus A350-1000,350,480,4.3
+21,A388,Airbus A380-800,555,853,8.5
+22,A400,AIRBUS A-400M Atlas,Cargo Only,Cargo Only,7.0
+23,B712,Boeing 717-200,106,134,3.3
+24,B722,Boeing 727-200,155,189,6.2
+25,B732,Boeing 737-200,115,136,5.0
+26,B733,Boeing 737-300,126,149,4.4
+27,B734,Boeing 737-400,147,188,4.5
+28,B735,Boeing 737-500,108,132,4.2
+29,B736,Boeing 737-600,108,132,4.0
+30,B737,Boeing 737-700,126,149,3.8
+31,B738,Boeing 737-800,162,189,3.6
+32,B739,Boeing 737-900,180,220,3.7
+33,B744,Boeing 747-400,416,660,10.5
+34,B748,Boeing 747-8,467,660,9.5
+35,B752,Boeing 757-200,200,239,4.8
+36,B753,Boeing 757-300,243,295,5.0
+37,B762,Boeing 767-200,181,255,6.0
+38,B763,Boeing 767-300,269,375,6.1
+39,B764,Boeing 767-400,304,375,6.2
+40,B772,Boeing 777-200,314,440,7.5
+41,B773,Boeing 777-300,368,550,8.0
+42,B77L,Boeing 777-200LR,317,440,7.2
+43,B77W,Boeing 777-300ER,396,550,7.6
+44,B787,Boeing 787-8,242,296,4.2
+45,B789,Boeing 787-9 Dreamliner,296,296,4.1
+46,B78X,Boeing 787-10 Dreamliner,318,440,4.3
+47,E170,Embraer 170,66,78,3.1
+48,E190,Embraer ERJ-190,96,114,3.2
+49,E290,Embraer E190-E2,97,114,2.8
+50,E295,Embraer ERJ-190-400,120,146,2.9
+51,BCS1,Airbus A220-100,108,135,2.1
+52,BCS3,Airbus A220-300,130,160,2.2
+53,C172,Cessna 172 Skyhawk,4,4,4.3
+54,C182,Cessna 182 Skylane,4,4,5.0
+55,C208,Cessna 208 Caravan,9,14,4.8
+56,C510,Cessna Citation Mustang,4,5,5.1
+57,C525,Cessna Citation CJ1,5,6,5.2
+58,C750,Cessna Citation X,8,12,6.8
+59,GLF5,Gulfstream Aerospace Gulfstream V,14,19,7.1
+60,GLF6,Gulfstream Aerospace Gulfstream G650,14,19,6.8
+61,PC12,Pilatus PC-12,9,10,5.0
+62,SF34,Saab 340,30,36,4.5
+63,AT43,Aerospatiale ATR-42-300,42,50,3.2
+64,AT72,ATR ATR-72,68,78,3.5
+65,DH8A,de Havilland Dash 8-100,37,39,3.8
+66,DH8D,de Havilland Dash 8-400,78,90,4.2
+67,CRJ2,Bombardier CRJ-200,50,50,3.4
+68,CRJ7,Bombardier CRJ-700,66,78,3.2
+69,CRJ9,Bombardier CRJ-900,76,90,3.1
+70,DHC6,De Havilland Canada DHC-6 Twin Otter,19,20,5.0
+71,B190,Beechcraft 1900,19,19,4.0
+72,E120,Embraer EMB-120 Brasilia,30,30,4.5
+73,F100,Fokker 100,97,122,4.0
+74,SU95,Sukhoi Superjet 100,87,108,3.6
+75,C25C,Cessna Citation CJ4,8,10,5.4
+76,E75S,Embraer ERJ 175,76,88,3.1
+77,C25B,Cessna Citation CJ3,6,8,5.2
+78,BE20,Beechcraft King Air 200,9,13,4.5
+79,BE9L,Beechcraft King Air 90,6,7,4.7
+80,B38M,Boeing 737 MAX 8,178,210,2.6
+81,B39M,Boeing 737 MAX 9,193,220,2.7
+82,AT43,Aerospatiale ATR-42-300 (variant),42,50,3.2
+83,B78X,Boeing 787-10 Dreamliner (variant),318,440,4.3
+84,F100,Fokker 100 (variant),97,122,4.0
+85,B734,Boeing 737-400 (variant),147,188,4.5
+86,A338,Airbus A330-800 (variant),220,406,4.5
+87,A20N,Airbus A320neo (variant),150,186,2.4
+88,BCS3,Airbus A220-300 (variant),130,160,2.2
+89,E75S,Embraer ERJ 175 (variant),76,88,3.1
+90,C25C,Cessna Citation CJ4 (variant),8,10,5.4
+91,B739,Boeing 737-900 (variant),180,220,3.7
+92,B773,Boeing 777-300 (variant),368,550,8.0
+93,A343,Airbus A340-300 (variant),277,440,6.0
+94,A20N,Airbus A320neo (variant),150,186,2.4
+95,B763,Boeing 767-300 (variant),269,375,6.1
+96,A306,Airbus A300F4-600 (variant),Cargo Only,Cargo Only,5.5
+97,B738,Boeing 737-800 (variant),162,189,3.6
+98,A109,SABCA A-109 (variant),7,8,0.6
+99,C172,Cessna 172 Skyhawk (variant),4,4,4.3
+100,CRJ9,Bombardier CRJ-900 (variant),76,90,3.1
+101,GLF5,Gulfstream Aerospace Gulfstream V (variant),14,19,7.1
+102,A330,Airbus A330 (variant),277,440,5.0
+103,B789,Boeing 787-9 Dreamliner (variant),296,296,4.1
+104,B77W,Boeing 777-300ER (variant),396,550,7.6
+105,E295,Embraer ERJ-190-400 (variant),120,146,2.9
+106,B38M,Boeing 737 MAX 8 (variant),178,210,2.6
+107,B773,Boeing 777-300 (variant),368,550,8.0
+108,SF34,Saab 340 (variant),30,36,4.5
+109,B77L,Boeing 777-200LR (variant),317,440,7.2
+110,E170,Embraer 170 (variant),66,78,3.1
+111,A332,Airbus A330-200 (variant),246,406,4.9
+112,A333,Airbus A330-300 (variant),277,440,5.2
+113,A333,Airbus A330-300 (variant),277,440,5.2
+114,B736,Boeing 737-600 (variant),108,132,4.0
+115,B736,Boeing 737-600 (variant),108,132,4.0
+116,A338,Airbus A330-800 (variant),220,406,4.5
+117,A332,Airbus A330-200 (variant),246,406,4.9
+118,B772,Boeing 777-200 (variant),314,440,7.5
+119,BE9L,Beechcraft King Air 90 (variant),6,7,4.7
+120,B190,Beechcraft 1900 (variant),19,19,4.0
+121,E190,Embraer ERJ-190 (variant),96,114,3.2
+122,GLF5,Gulfstream Aerospace Gulfstream V (variant),14,19,7.1
+123,B78X,Boeing 787-10 Dreamliner (variant),318,440,4.3
+124,A388,Airbus A380-800 (variant),555,853,8.5
+125,A343,Airbus A340-300 (variant),277,440,6.0
+126,DH8D,de Havilland Dash 8-400 (variant),78,90,4.2
+127,B772,Boeing 777-200 (variant),314,440,7.5
+128,C525,Cessna Citation CJ1 (variant),5,6,5.2
+129,B748,Boeing 747-8 (variant),467,660,9.5
+130,A119,DENEL Koala (variant),7,8,0.7
+131,A359,Airbus A350-900 (variant),300,440,4.1
+132,B735,Boeing 737-500 (variant),108,132,4.2
+133,A346,Airbus A340-600 (variant),326,475,6.5
+134,B763,Boeing 767-300 (variant),269,375,6.1
+135,B739,Boeing 737-900 (variant),180,220,3.7
+136,E190,Embraer ERJ-190 (variant),96,114,3.2
+137,B738,Boeing 737-800 (variant),162,189,3.6
+138,E120,Embraer EMB-120 Brasilia (variant),30,30,4.5
+139,A35K,Airbus A350-1000 (variant),350,480,4.3
+140,B733,Boeing 737-300 (variant),126,149,4.4
+141,PC12,Pilatus PC-12 (variant),9,10,5.0
+142,CRJ9,Bombardier CRJ-900 (variant),76,90,3.1
+143,A306,Airbus A300F4-600 (variant),Cargo Only,Cargo Only,5.5
+144,C25C,Cessna Citation CJ4 (variant),8,10,5.4
+145,A148,Antonov An-148 (variant),75,85,3.2
+146,BCS1,Airbus A220-100 (variant),108,135,2.1
+147,E190,Embraer ERJ-190 (variant),96,114,3.2
+148,SF34,Saab 340 (variant),30,36,4.5
+149,B789,Boeing 787-9 Dreamliner (variant),296,296,4.1
+150,C208,Cessna 208 Caravan (variant),9,14,4.8
+151,B77W,Boeing 777-300ER (variant),396,550,7.6
+152,C208,Cessna 208 Caravan (variant),9,14,4.8
+153,B763,Boeing 767-300 (variant),269,375,6.1
+154,A346,Airbus A340-600 (variant),326,475,6.5
+155,B748,Boeing 747-8 (variant),467,660,9.5
+156,B753,Boeing 757-300 (variant),243,295,5.0
+157,B736,Boeing 737-600 (variant),108,132,4.0
+158,A330,Airbus A330 (variant),277,440,5.0
+159,B732,Boeing 737-200 (variant),115,136,5.0
+160,B762,Boeing 767-200 (variant),181,255,6.0
+161,B772,Boeing 777-200 (variant),314,440,7.5
+162,BCS3,Airbus A220-300 (variant),130,160,2.2
+163,BE9L,Beechcraft King Air 90 (variant),6,7,4.7
+164,GLF6,Gulfstream Aerospace Gulfstream G650 (variant),14,19,6.8
+165,E170,Embraer 170 (variant),66,78,3.1
+166,B739,Boeing 737-900 (variant),180,220,3.7
+167,AT72,ATR ATR-72 (variant),68,78,3.5
+168,B712,Boeing 717-200 (variant),106,134,3.3
+169,AT43,Aerospatiale ATR-42-300 (variant),42,50,3.2
+170,A338,Airbus A330-800 (variant),220,406,4.5
+171,CRJ7,Bombardier CRJ-700 (variant),66,78,3.2
+172,A359,Airbus A350-900 (variant),300,440,4.1
+173,C525,Cessna Citation CJ1 (variant),5,6,5.2
+174,B737,Boeing 737-700 (variant),126,149,3.8
+175,GLF6,Gulfstream Aerospace Gulfstream G650 (variant),14,19,6.8
+176,A330,Airbus A330 (variant),277,440,5.0
+177,BE20,Beechcraft King Air 200 (variant),9,13,4.5
+178,A20N,Airbus A320neo (variant),150,186,2.4
+179,A310,Airbus A310 (variant),280,280,5.0
+180,CRJ7,Bombardier CRJ-700 (variant),66,78,3.2
+181,E295,Embraer ERJ-190-400 (variant),120,146,2.9
+182,A20N,Airbus A320neo (variant),150,186,2.4
+183,A359,Airbus A350-900 (variant),300,440,4.1
+184,F100,Fokker 100 (variant),97,122,4.0
+185,F100,Fokker 100 (variant),97,122,4.0
+186,SU95,Sukhoi Superjet 100 (variant),87,108,3.6
+187,B772,Boeing 777-200 (variant),314,440,7.5
+188,A109,SABCA A-109 (variant),7,8,0.6
+189,B739,Boeing 737-900 (variant),180,220,3.7
+190,A333,Airbus A330-300 (variant),277,440,5.2
+191,PC12,Pilatus PC-12 (variant),9,10,5.0
+192,B739,Boeing 737-900 (variant),180,220,3.7
+193,BCS3,Airbus A220-300 (variant),130,160,2.2
+194,A332,Airbus A330-200 (variant),246,406,4.9
+195,B764,Boeing 767-400 (variant),304,375,6.2
+196,A359,Airbus A350-900 (variant),300,440,4.1
+197,B38M,Boeing 737 MAX 8 (variant),178,210,2.6
+198,C525,Cessna Citation CJ1 (variant),5,6,5.2
+199,CRJ2,Bombardier CRJ-200 (variant),50,50,3.4
+200,B752,Boeing 757-200 (variant),200,239,4.8
+201,BE20,Beechcraft King Air 200 (variant),9,13,4.5
+202,B77W,Boeing 777-300ER (variant),396,550,7.6
+203,DH8D,de Havilland Dash 8-400 (variant),78,90,4.2
+204,A321,Airbus A321 (variant),185,236,2.9
+205,E190,Embraer ERJ-190 (variant),96,114,3.2
+206,BE9L,Beechcraft King Air 90 (variant),6,7,4.7
+207,E295,Embraer ERJ-190-400 (variant),120,146,2.9
+208,A332,Airbus A330-200 (variant),246,406,4.9
+209,CRJ9,Bombardier CRJ-900 (variant),76,90,3.1
+210,BCS1,Airbus A220-100 (variant),108,135,2.1
+211,B735,Boeing 737-500 (variant),108,132,4.2
+212,B77L,Boeing 777-200LR (variant),317,440,7.2
+213,A332,Airbus A330-200 (variant),246,406,4.9
+214,B763,Boeing 767-300 (variant),269,375,6.1
+215,A35K,Airbus A350-1000 (variant),350,480,4.3
+216,B733,Boeing 737-300 (variant),126,149,4.4
+217,E75S,Embraer ERJ 175 (variant),76,88,3.1
+218,A400,AIRBUS A-400M Atlas (variant),Cargo Only,Cargo Only,7.0
+219,BE20,Beechcraft King Air 200 (variant),9,13,4.5
+220,A388,Airbus A380-800 (variant),555,853,8.5
+221,C750,Cessna Citation X (variant),8,12,6.8
+222,E170,Embraer 170 (variant),66,78,3.1
+223,B735,Boeing 737-500 (variant),108,132,4.2
+224,E120,Embraer EMB-120 Brasilia (variant),30,30,4.5
+225,B733,Boeing 737-300 (variant),126,149,4.4
+226,A339,Airbus A330-900 (variant),287,440,4.6
+227,DHC6,De Havilland Canada DHC-6 Twin Otter (variant),19,20,5.0
+228,GLF5,Gulfstream Aerospace Gulfstream V (variant),14,19,7.1
+229,C172,Cessna 172 Skyhawk (variant),4,4,4.3
+230,AT72,ATR ATR-72 (variant),68,78,3.5
+231,E295,Embraer ERJ-190-400 (variant),120,146,2.9
+232,B734,Boeing 737-400 (variant),147,188,4.5
+233,B762,Boeing 767-200 (variant),181,255,6.0
+234,A19N,Airbus A319neo (variant),124,156,2.5
+235,C525,Cessna Citation CJ1 (variant),5,6,5.2
+236,A319,Airbus A319 (variant),124,156,2.7
+237,B744,Boeing 747-400 (variant),416,660,10.5
+238,B77L,Boeing 777-200LR (variant),317,440,7.2
+239,B752,Boeing 757-200 (variant),200,239,4.8
+240,B735,Boeing 737-500 (variant),108,132,4.2
+241,BE20,Beechcraft King Air 200 (variant),9,13,4.5
+242,B734,Boeing 737-400 (variant),147,188,4.5
+243,A320,Airbus A320 (variant),150,186,2.7
+244,AT72,ATR ATR-72 (variant),68,78,3.5
+245,C525,Cessna Citation CJ1 (variant),5,6,5.2
+246,A338,Airbus A330-800 (variant),220,406,4.5
+247,A346,Airbus A340-600 (variant),326,475,6.5
+248,B748,Boeing 747-8 (variant),467,660,9.5
+249,A330,Airbus A330 (variant),277,440,5.0
+250,B787,Boeing 787-8 (variant),242,296,4.2
+251,F100,Fokker 100 (variant),97,122,4.0
+252,A330,Airbus A330 (variant),277,440,5.0
+253,A332,Airbus A330-200 (variant),246,406,4.9
+254,DH8A,de Havilland Dash 8-100 (variant),37,39,3.8
+255,B789,Boeing 787-9 Dreamliner (variant),296,296,4.1
+256,A306,Airbus A300F4-600 (variant),Cargo Only,Cargo Only,5.5
+257,A330,Airbus A330 (variant),277,440,5.0
+258,A338,Airbus A330-800 (variant),220,406,4.5
+259,B78X,Boeing 787-10 Dreamliner (variant),318,440,4.3
+260,B789,Boeing 787-9 Dreamliner (variant),296,296,4.1
+261,A139,BELL-AGUSTA AB-139 (variant),15,15,1.1
+262,A306,Airbus A300F4-600 (variant),Cargo Only,Cargo Only,5.5
+263,E75S,Embraer ERJ 175 (variant),76,88,3.1
+264,E190,Embraer ERJ-190 (variant),96,114,3.2
+265,B732,Boeing 737-200 (variant),115,136,5.0
+266,CRJ9,Bombardier CRJ-900 (variant),76,90,3.1
+267,AT43,Aerospatiale ATR-42-300 (variant),42,50,3.2
+268,C208,Cessna 208 Caravan (variant),9,14,4.8
+269,B738,Boeing 737-800 (variant),162,189,3.6
+270,C208,Cessna 208 Caravan (variant),9,14,4.8
+271,B787,Boeing 787-8 (variant),242,296,4.2
+272,A119,DENEL Koala (variant),7,8,0.7
+273,A346,Airbus A340-600 (variant),326,475,6.5
+274,A359,Airbus A350-900 (variant),300,440,4.1

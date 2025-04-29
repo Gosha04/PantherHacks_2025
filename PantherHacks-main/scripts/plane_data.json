@@ -1,0 +1,2202 @@
+[
+    {
+        "": "0",
+        "icao_code": "A109",
+        "model_name": "SABCA A-109",
+        "avgSeats": "7",
+        "maxSeats": "8",
+        "mpg": "0.6"
+    },
+    {
+        "": "1",
+        "icao_code": "A119",
+        "model_name": "DENEL Koala",
+        "avgSeats": "7",
+        "maxSeats": "8",
+        "mpg": "0.7"
+    },
+    {
+        "": "2",
+        "icao_code": "A139",
+        "model_name": "BELL-AGUSTA AB-139",
+        "avgSeats": "15",
+        "maxSeats": "15",
+        "mpg": "1.1"
+    },
+    {
+        "": "3",
+        "icao_code": "A148",
+        "model_name": "Antonov An-148",
+        "avgSeats": "75",
+        "maxSeats": "85",
+        "mpg": "3.2"
+    },
+    {
+        "": "4",
+        "icao_code": "A19N",
+        "model_name": "Airbus A319neo",
+        "avgSeats": "124",
+        "maxSeats": "156",
+        "mpg": "2.5"
+    },
+    {
+        "": "5",
+        "icao_code": "A20N",
+        "model_name": "Airbus A320neo",
+        "avgSeats": "150",
+        "maxSeats": "186",
+        "mpg": "2.4"
+    },
+    {
+        "": "6",
+        "icao_code": "A21N",
+        "model_name": "Airbus A321neo",
+        "avgSeats": "185",
+        "maxSeats": "236",
+        "mpg": "2.6"
+    },
+    {
+        "": "7",
+        "icao_code": "A306",
+        "model_name": "Airbus A300F4-600",
+        "avgSeats": "Cargo Only",
+        "maxSeats": "Cargo Only",
+        "mpg": "5.5"
+    },
+    {
+        "": "8",
+        "icao_code": "A310",
+        "model_name": "Airbus A310",
+        "avgSeats": "280",
+        "maxSeats": "280",
+        "mpg": "5.0"
+    },
+    {
+        "": "9",
+        "icao_code": "A319",
+        "model_name": "Airbus A319",
+        "avgSeats": "124",
+        "maxSeats": "156",
+        "mpg": "2.7"
+    },
+    {
+        "": "10",
+        "icao_code": "A320",
+        "model_name": "Airbus A320",
+        "avgSeats": "150",
+        "maxSeats": "186",
+        "mpg": "2.7"
+    },
+    {
+        "": "11",
+        "icao_code": "A321",
+        "model_name": "Airbus A321",
+        "avgSeats": "185",
+        "maxSeats": "236",
+        "mpg": "2.9"
+    },
+    {
+        "": "12",
+        "icao_code": "A330",
+        "model_name": "Airbus A330",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.0"
+    },
+    {
+        "": "13",
+        "icao_code": "A332",
+        "model_name": "Airbus A330-200",
+        "avgSeats": "246",
+        "maxSeats": "406",
+        "mpg": "4.9"
+    },
+    {
+        "": "14",
+        "icao_code": "A333",
+        "model_name": "Airbus A330-300",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.2"
+    },
+    {
+        "": "15",
+        "icao_code": "A338",
+        "model_name": "Airbus A330-800",
+        "avgSeats": "220",
+        "maxSeats": "406",
+        "mpg": "4.5"
+    },
+    {
+        "": "16",
+        "icao_code": "A339",
+        "model_name": "Airbus A330-900",
+        "avgSeats": "287",
+        "maxSeats": "440",
+        "mpg": "4.6"
+    },
+    {
+        "": "17",
+        "icao_code": "A343",
+        "model_name": "Airbus A340-300",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "6.0"
+    },
+    {
+        "": "18",
+        "icao_code": "A346",
+        "model_name": "Airbus A340-600",
+        "avgSeats": "326",
+        "maxSeats": "475",
+        "mpg": "6.5"
+    },
+    {
+        "": "19",
+        "icao_code": "A359",
+        "model_name": "Airbus A350-900",
+        "avgSeats": "300",
+        "maxSeats": "440",
+        "mpg": "4.1"
+    },
+    {
+        "": "20",
+        "icao_code": "A35K",
+        "model_name": "Airbus A350-1000",
+        "avgSeats": "350",
+        "maxSeats": "480",
+        "mpg": "4.3"
+    },
+    {
+        "": "21",
+        "icao_code": "A388",
+        "model_name": "Airbus A380-800",
+        "avgSeats": "555",
+        "maxSeats": "853",
+        "mpg": "8.5"
+    },
+    {
+        "": "22",
+        "icao_code": "A400",
+        "model_name": "AIRBUS A-400M Atlas",
+        "avgSeats": "Cargo Only",
+        "maxSeats": "Cargo Only",
+        "mpg": "7.0"
+    },
+    {
+        "": "23",
+        "icao_code": "B712",
+        "model_name": "Boeing 717-200",
+        "avgSeats": "106",
+        "maxSeats": "134",
+        "mpg": "3.3"
+    },
+    {
+        "": "24",
+        "icao_code": "B722",
+        "model_name": "Boeing 727-200",
+        "avgSeats": "155",
+        "maxSeats": "189",
+        "mpg": "6.2"
+    },
+    {
+        "": "25",
+        "icao_code": "B732",
+        "model_name": "Boeing 737-200",
+        "avgSeats": "115",
+        "maxSeats": "136",
+        "mpg": "5.0"
+    },
+    {
+        "": "26",
+        "icao_code": "B733",
+        "model_name": "Boeing 737-300",
+        "avgSeats": "126",
+        "maxSeats": "149",
+        "mpg": "4.4"
+    },
+    {
+        "": "27",
+        "icao_code": "B734",
+        "model_name": "Boeing 737-400",
+        "avgSeats": "147",
+        "maxSeats": "188",
+        "mpg": "4.5"
+    },
+    {
+        "": "28",
+        "icao_code": "B735",
+        "model_name": "Boeing 737-500",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.2"
+    },
+    {
+        "": "29",
+        "icao_code": "B736",
+        "model_name": "Boeing 737-600",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.0"
+    },
+    {
+        "": "30",
+        "icao_code": "B737",
+        "model_name": "Boeing 737-700",
+        "avgSeats": "126",
+        "maxSeats": "149",
+        "mpg": "3.8"
+    },
+    {
+        "": "31",
+        "icao_code": "B738",
+        "model_name": "Boeing 737-800",
+        "avgSeats": "162",
+        "maxSeats": "189",
+        "mpg": "3.6"
+    },
+    {
+        "": "32",
+        "icao_code": "B739",
+        "model_name": "Boeing 737-900",
+        "avgSeats": "180",
+        "maxSeats": "220",
+        "mpg": "3.7"
+    },
+    {
+        "": "33",
+        "icao_code": "B744",
+        "model_name": "Boeing 747-400",
+        "avgSeats": "416",
+        "maxSeats": "660",
+        "mpg": "10.5"
+    },
+    {
+        "": "34",
+        "icao_code": "B748",
+        "model_name": "Boeing 747-8",
+        "avgSeats": "467",
+        "maxSeats": "660",
+        "mpg": "9.5"
+    },
+    {
+        "": "35",
+        "icao_code": "B752",
+        "model_name": "Boeing 757-200",
+        "avgSeats": "200",
+        "maxSeats": "239",
+        "mpg": "4.8"
+    },
+    {
+        "": "36",
+        "icao_code": "B753",
+        "model_name": "Boeing 757-300",
+        "avgSeats": "243",
+        "maxSeats": "295",
+        "mpg": "5.0"
+    },
+    {
+        "": "37",
+        "icao_code": "B762",
+        "model_name": "Boeing 767-200",
+        "avgSeats": "181",
+        "maxSeats": "255",
+        "mpg": "6.0"
+    },
+    {
+        "": "38",
+        "icao_code": "B763",
+        "model_name": "Boeing 767-300",
+        "avgSeats": "269",
+        "maxSeats": "375",
+        "mpg": "6.1"
+    },
+    {
+        "": "39",
+        "icao_code": "B764",
+        "model_name": "Boeing 767-400",
+        "avgSeats": "304",
+        "maxSeats": "375",
+        "mpg": "6.2"
+    },
+    {
+        "": "40",
+        "icao_code": "B772",
+        "model_name": "Boeing 777-200",
+        "avgSeats": "314",
+        "maxSeats": "440",
+        "mpg": "7.5"
+    },
+    {
+        "": "41",
+        "icao_code": "B773",
+        "model_name": "Boeing 777-300",
+        "avgSeats": "368",
+        "maxSeats": "550",
+        "mpg": "8.0"
+    },
+    {
+        "": "42",
+        "icao_code": "B77L",
+        "model_name": "Boeing 777-200LR",
+        "avgSeats": "317",
+        "maxSeats": "440",
+        "mpg": "7.2"
+    },
+    {
+        "": "43",
+        "icao_code": "B77W",
+        "model_name": "Boeing 777-300ER",
+        "avgSeats": "396",
+        "maxSeats": "550",
+        "mpg": "7.6"
+    },
+    {
+        "": "44",
+        "icao_code": "B787",
+        "model_name": "Boeing 787-8",
+        "avgSeats": "242",
+        "maxSeats": "296",
+        "mpg": "4.2"
+    },
+    {
+        "": "45",
+        "icao_code": "B789",
+        "model_name": "Boeing 787-9 Dreamliner",
+        "avgSeats": "296",
+        "maxSeats": "296",
+        "mpg": "4.1"
+    },
+    {
+        "": "46",
+        "icao_code": "B78X",
+        "model_name": "Boeing 787-10 Dreamliner",
+        "avgSeats": "318",
+        "maxSeats": "440",
+        "mpg": "4.3"
+    },
+    {
+        "": "47",
+        "icao_code": "E170",
+        "model_name": "Embraer 170",
+        "avgSeats": "66",
+        "maxSeats": "78",
+        "mpg": "3.1"
+    },
+    {
+        "": "48",
+        "icao_code": "E190",
+        "model_name": "Embraer ERJ-190",
+        "avgSeats": "96",
+        "maxSeats": "114",
+        "mpg": "3.2"
+    },
+    {
+        "": "49",
+        "icao_code": "E290",
+        "model_name": "Embraer E190-E2",
+        "avgSeats": "97",
+        "maxSeats": "114",
+        "mpg": "2.8"
+    },
+    {
+        "": "50",
+        "icao_code": "E295",
+        "model_name": "Embraer ERJ-190-400",
+        "avgSeats": "120",
+        "maxSeats": "146",
+        "mpg": "2.9"
+    },
+    {
+        "": "51",
+        "icao_code": "BCS1",
+        "model_name": "Airbus A220-100",
+        "avgSeats": "108",
+        "maxSeats": "135",
+        "mpg": "2.1"
+    },
+    {
+        "": "52",
+        "icao_code": "BCS3",
+        "model_name": "Airbus A220-300",
+        "avgSeats": "130",
+        "maxSeats": "160",
+        "mpg": "2.2"
+    },
+    {
+        "": "53",
+        "icao_code": "C172",
+        "model_name": "Cessna 172 Skyhawk",
+        "avgSeats": "4",
+        "maxSeats": "4",
+        "mpg": "4.3"
+    },
+    {
+        "": "54",
+        "icao_code": "C182",
+        "model_name": "Cessna 182 Skylane",
+        "avgSeats": "4",
+        "maxSeats": "4",
+        "mpg": "5.0"
+    },
+    {
+        "": "55",
+        "icao_code": "C208",
+        "model_name": "Cessna 208 Caravan",
+        "avgSeats": "9",
+        "maxSeats": "14",
+        "mpg": "4.8"
+    },
+    {
+        "": "56",
+        "icao_code": "C510",
+        "model_name": "Cessna Citation Mustang",
+        "avgSeats": "4",
+        "maxSeats": "5",
+        "mpg": "5.1"
+    },
+    {
+        "": "57",
+        "icao_code": "C525",
+        "model_name": "Cessna Citation CJ1",
+        "avgSeats": "5",
+        "maxSeats": "6",
+        "mpg": "5.2"
+    },
+    {
+        "": "58",
+        "icao_code": "C750",
+        "model_name": "Cessna Citation X",
+        "avgSeats": "8",
+        "maxSeats": "12",
+        "mpg": "6.8"
+    },
+    {
+        "": "59",
+        "icao_code": "GLF5",
+        "model_name": "Gulfstream Aerospace Gulfstream V",
+        "avgSeats": "14",
+        "maxSeats": "19",
+        "mpg": "7.1"
+    },
+    {
+        "": "60",
+        "icao_code": "GLF6",
+        "model_name": "Gulfstream Aerospace Gulfstream G650",
+        "avgSeats": "14",
+        "maxSeats": "19",
+        "mpg": "6.8"
+    },
+    {
+        "": "61",
+        "icao_code": "PC12",
+        "model_name": "Pilatus PC-12",
+        "avgSeats": "9",
+        "maxSeats": "10",
+        "mpg": "5.0"
+    },
+    {
+        "": "62",
+        "icao_code": "SF34",
+        "model_name": "Saab 340",
+        "avgSeats": "30",
+        "maxSeats": "36",
+        "mpg": "4.5"
+    },
+    {
+        "": "63",
+        "icao_code": "AT43",
+        "model_name": "Aerospatiale ATR-42-300",
+        "avgSeats": "42",
+        "maxSeats": "50",
+        "mpg": "3.2"
+    },
+    {
+        "": "64",
+        "icao_code": "AT72",
+        "model_name": "ATR ATR-72",
+        "avgSeats": "68",
+        "maxSeats": "78",
+        "mpg": "3.5"
+    },
+    {
+        "": "65",
+        "icao_code": "DH8A",
+        "model_name": "de Havilland Dash 8-100",
+        "avgSeats": "37",
+        "maxSeats": "39",
+        "mpg": "3.8"
+    },
+    {
+        "": "66",
+        "icao_code": "DH8D",
+        "model_name": "de Havilland Dash 8-400",
+        "avgSeats": "78",
+        "maxSeats": "90",
+        "mpg": "4.2"
+    },
+    {
+        "": "67",
+        "icao_code": "CRJ2",
+        "model_name": "Bombardier CRJ-200",
+        "avgSeats": "50",
+        "maxSeats": "50",
+        "mpg": "3.4"
+    },
+    {
+        "": "68",
+        "icao_code": "CRJ7",
+        "model_name": "Bombardier CRJ-700",
+        "avgSeats": "66",
+        "maxSeats": "78",
+        "mpg": "3.2"
+    },
+    {
+        "": "69",
+        "icao_code": "CRJ9",
+        "model_name": "Bombardier CRJ-900",
+        "avgSeats": "76",
+        "maxSeats": "90",
+        "mpg": "3.1"
+    },
+    {
+        "": "70",
+        "icao_code": "DHC6",
+        "model_name": "De Havilland Canada DHC-6 Twin Otter",
+        "avgSeats": "19",
+        "maxSeats": "20",
+        "mpg": "5.0"
+    },
+    {
+        "": "71",
+        "icao_code": "B190",
+        "model_name": "Beechcraft 1900",
+        "avgSeats": "19",
+        "maxSeats": "19",
+        "mpg": "4.0"
+    },
+    {
+        "": "72",
+        "icao_code": "E120",
+        "model_name": "Embraer EMB-120 Brasilia",
+        "avgSeats": "30",
+        "maxSeats": "30",
+        "mpg": "4.5"
+    },
+    {
+        "": "73",
+        "icao_code": "F100",
+        "model_name": "Fokker 100",
+        "avgSeats": "97",
+        "maxSeats": "122",
+        "mpg": "4.0"
+    },
+    {
+        "": "74",
+        "icao_code": "SU95",
+        "model_name": "Sukhoi Superjet 100",
+        "avgSeats": "87",
+        "maxSeats": "108",
+        "mpg": "3.6"
+    },
+    {
+        "": "75",
+        "icao_code": "C25C",
+        "model_name": "Cessna Citation CJ4",
+        "avgSeats": "8",
+        "maxSeats": "10",
+        "mpg": "5.4"
+    },
+    {
+        "": "76",
+        "icao_code": "E75S",
+        "model_name": "Embraer ERJ 175",
+        "avgSeats": "76",
+        "maxSeats": "88",
+        "mpg": "3.1"
+    },
+    {
+        "": "77",
+        "icao_code": "C25B",
+        "model_name": "Cessna Citation CJ3",
+        "avgSeats": "6",
+        "maxSeats": "8",
+        "mpg": "5.2"
+    },
+    {
+        "": "78",
+        "icao_code": "BE20",
+        "model_name": "Beechcraft King Air 200",
+        "avgSeats": "9",
+        "maxSeats": "13",
+        "mpg": "4.5"
+    },
+    {
+        "": "79",
+        "icao_code": "BE9L",
+        "model_name": "Beechcraft King Air 90",
+        "avgSeats": "6",
+        "maxSeats": "7",
+        "mpg": "4.7"
+    },
+    {
+        "": "80",
+        "icao_code": "B38M",
+        "model_name": "Boeing 737 MAX 8",
+        "avgSeats": "178",
+        "maxSeats": "210",
+        "mpg": "2.6"
+    },
+    {
+        "": "81",
+        "icao_code": "B39M",
+        "model_name": "Boeing 737 MAX 9",
+        "avgSeats": "193",
+        "maxSeats": "220",
+        "mpg": "2.7"
+    },
+    {
+        "": "82",
+        "icao_code": "AT43",
+        "model_name": "Aerospatiale ATR-42-300 (variant)",
+        "avgSeats": "42",
+        "maxSeats": "50",
+        "mpg": "3.2"
+    },
+    {
+        "": "83",
+        "icao_code": "B78X",
+        "model_name": "Boeing 787-10 Dreamliner (variant)",
+        "avgSeats": "318",
+        "maxSeats": "440",
+        "mpg": "4.3"
+    },
+    {
+        "": "84",
+        "icao_code": "F100",
+        "model_name": "Fokker 100 (variant)",
+        "avgSeats": "97",
+        "maxSeats": "122",
+        "mpg": "4.0"
+    },
+    {
+        "": "85",
+        "icao_code": "B734",
+        "model_name": "Boeing 737-400 (variant)",
+        "avgSeats": "147",
+        "maxSeats": "188",
+        "mpg": "4.5"
+    },
+    {
+        "": "86",
+        "icao_code": "A338",
+        "model_name": "Airbus A330-800 (variant)",
+        "avgSeats": "220",
+        "maxSeats": "406",
+        "mpg": "4.5"
+    },
+    {
+        "": "87",
+        "icao_code": "A20N",
+        "model_name": "Airbus A320neo (variant)",
+        "avgSeats": "150",
+        "maxSeats": "186",
+        "mpg": "2.4"
+    },
+    {
+        "": "88",
+        "icao_code": "BCS3",
+        "model_name": "Airbus A220-300 (variant)",
+        "avgSeats": "130",
+        "maxSeats": "160",
+        "mpg": "2.2"
+    },
+    {
+        "": "89",
+        "icao_code": "E75S",
+        "model_name": "Embraer ERJ 175 (variant)",
+        "avgSeats": "76",
+        "maxSeats": "88",
+        "mpg": "3.1"
+    },
+    {
+        "": "90",
+        "icao_code": "C25C",
+        "model_name": "Cessna Citation CJ4 (variant)",
+        "avgSeats": "8",
+        "maxSeats": "10",
+        "mpg": "5.4"
+    },
+    {
+        "": "91",
+        "icao_code": "B739",
+        "model_name": "Boeing 737-900 (variant)",
+        "avgSeats": "180",
+        "maxSeats": "220",
+        "mpg": "3.7"
+    },
+    {
+        "": "92",
+        "icao_code": "B773",
+        "model_name": "Boeing 777-300 (variant)",
+        "avgSeats": "368",
+        "maxSeats": "550",
+        "mpg": "8.0"
+    },
+    {
+        "": "93",
+        "icao_code": "A343",
+        "model_name": "Airbus A340-300 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "6.0"
+    },
+    {
+        "": "94",
+        "icao_code": "A20N",
+        "model_name": "Airbus A320neo (variant)",
+        "avgSeats": "150",
+        "maxSeats": "186",
+        "mpg": "2.4"
+    },
+    {
+        "": "95",
+        "icao_code": "B763",
+        "model_name": "Boeing 767-300 (variant)",
+        "avgSeats": "269",
+        "maxSeats": "375",
+        "mpg": "6.1"
+    },
+    {
+        "": "96",
+        "icao_code": "A306",
+        "model_name": "Airbus A300F4-600 (variant)",
+        "avgSeats": "Cargo Only",
+        "maxSeats": "Cargo Only",
+        "mpg": "5.5"
+    },
+    {
+        "": "97",
+        "icao_code": "B738",
+        "model_name": "Boeing 737-800 (variant)",
+        "avgSeats": "162",
+        "maxSeats": "189",
+        "mpg": "3.6"
+    },
+    {
+        "": "98",
+        "icao_code": "A109",
+        "model_name": "SABCA A-109 (variant)",
+        "avgSeats": "7",
+        "maxSeats": "8",
+        "mpg": "0.6"
+    },
+    {
+        "": "99",
+        "icao_code": "C172",
+        "model_name": "Cessna 172 Skyhawk (variant)",
+        "avgSeats": "4",
+        "maxSeats": "4",
+        "mpg": "4.3"
+    },
+    {
+        "": "100",
+        "icao_code": "CRJ9",
+        "model_name": "Bombardier CRJ-900 (variant)",
+        "avgSeats": "76",
+        "maxSeats": "90",
+        "mpg": "3.1"
+    },
+    {
+        "": "101",
+        "icao_code": "GLF5",
+        "model_name": "Gulfstream Aerospace Gulfstream V (variant)",
+        "avgSeats": "14",
+        "maxSeats": "19",
+        "mpg": "7.1"
+    },
+    {
+        "": "102",
+        "icao_code": "A330",
+        "model_name": "Airbus A330 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.0"
+    },
+    {
+        "": "103",
+        "icao_code": "B789",
+        "model_name": "Boeing 787-9 Dreamliner (variant)",
+        "avgSeats": "296",
+        "maxSeats": "296",
+        "mpg": "4.1"
+    },
+    {
+        "": "104",
+        "icao_code": "B77W",
+        "model_name": "Boeing 777-300ER (variant)",
+        "avgSeats": "396",
+        "maxSeats": "550",
+        "mpg": "7.6"
+    },
+    {
+        "": "105",
+        "icao_code": "E295",
+        "model_name": "Embraer ERJ-190-400 (variant)",
+        "avgSeats": "120",
+        "maxSeats": "146",
+        "mpg": "2.9"
+    },
+    {
+        "": "106",
+        "icao_code": "B38M",
+        "model_name": "Boeing 737 MAX 8 (variant)",
+        "avgSeats": "178",
+        "maxSeats": "210",
+        "mpg": "2.6"
+    },
+    {
+        "": "107",
+        "icao_code": "B773",
+        "model_name": "Boeing 777-300 (variant)",
+        "avgSeats": "368",
+        "maxSeats": "550",
+        "mpg": "8.0"
+    },
+    {
+        "": "108",
+        "icao_code": "SF34",
+        "model_name": "Saab 340 (variant)",
+        "avgSeats": "30",
+        "maxSeats": "36",
+        "mpg": "4.5"
+    },
+    {
+        "": "109",
+        "icao_code": "B77L",
+        "model_name": "Boeing 777-200LR (variant)",
+        "avgSeats": "317",
+        "maxSeats": "440",
+        "mpg": "7.2"
+    },
+    {
+        "": "110",
+        "icao_code": "E170",
+        "model_name": "Embraer 170 (variant)",
+        "avgSeats": "66",
+        "maxSeats": "78",
+        "mpg": "3.1"
+    },
+    {
+        "": "111",
+        "icao_code": "A332",
+        "model_name": "Airbus A330-200 (variant)",
+        "avgSeats": "246",
+        "maxSeats": "406",
+        "mpg": "4.9"
+    },
+    {
+        "": "112",
+        "icao_code": "A333",
+        "model_name": "Airbus A330-300 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.2"
+    },
+    {
+        "": "113",
+        "icao_code": "A333",
+        "model_name": "Airbus A330-300 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.2"
+    },
+    {
+        "": "114",
+        "icao_code": "B736",
+        "model_name": "Boeing 737-600 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.0"
+    },
+    {
+        "": "115",
+        "icao_code": "B736",
+        "model_name": "Boeing 737-600 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.0"
+    },
+    {
+        "": "116",
+        "icao_code": "A338",
+        "model_name": "Airbus A330-800 (variant)",
+        "avgSeats": "220",
+        "maxSeats": "406",
+        "mpg": "4.5"
+    },
+    {
+        "": "117",
+        "icao_code": "A332",
+        "model_name": "Airbus A330-200 (variant)",
+        "avgSeats": "246",
+        "maxSeats": "406",
+        "mpg": "4.9"
+    },
+    {
+        "": "118",
+        "icao_code": "B772",
+        "model_name": "Boeing 777-200 (variant)",
+        "avgSeats": "314",
+        "maxSeats": "440",
+        "mpg": "7.5"
+    },
+    {
+        "": "119",
+        "icao_code": "BE9L",
+        "model_name": "Beechcraft King Air 90 (variant)",
+        "avgSeats": "6",
+        "maxSeats": "7",
+        "mpg": "4.7"
+    },
+    {
+        "": "120",
+        "icao_code": "B190",
+        "model_name": "Beechcraft 1900 (variant)",
+        "avgSeats": "19",
+        "maxSeats": "19",
+        "mpg": "4.0"
+    },
+    {
+        "": "121",
+        "icao_code": "E190",
+        "model_name": "Embraer ERJ-190 (variant)",
+        "avgSeats": "96",
+        "maxSeats": "114",
+        "mpg": "3.2"
+    },
+    {
+        "": "122",
+        "icao_code": "GLF5",
+        "model_name": "Gulfstream Aerospace Gulfstream V (variant)",
+        "avgSeats": "14",
+        "maxSeats": "19",
+        "mpg": "7.1"
+    },
+    {
+        "": "123",
+        "icao_code": "B78X",
+        "model_name": "Boeing 787-10 Dreamliner (variant)",
+        "avgSeats": "318",
+        "maxSeats": "440",
+        "mpg": "4.3"
+    },
+    {
+        "": "124",
+        "icao_code": "A388",
+        "model_name": "Airbus A380-800 (variant)",
+        "avgSeats": "555",
+        "maxSeats": "853",
+        "mpg": "8.5"
+    },
+    {
+        "": "125",
+        "icao_code": "A343",
+        "model_name": "Airbus A340-300 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "6.0"
+    },
+    {
+        "": "126",
+        "icao_code": "DH8D",
+        "model_name": "de Havilland Dash 8-400 (variant)",
+        "avgSeats": "78",
+        "maxSeats": "90",
+        "mpg": "4.2"
+    },
+    {
+        "": "127",
+        "icao_code": "B772",
+        "model_name": "Boeing 777-200 (variant)",
+        "avgSeats": "314",
+        "maxSeats": "440",
+        "mpg": "7.5"
+    },
+    {
+        "": "128",
+        "icao_code": "C525",
+        "model_name": "Cessna Citation CJ1 (variant)",
+        "avgSeats": "5",
+        "maxSeats": "6",
+        "mpg": "5.2"
+    },
+    {
+        "": "129",
+        "icao_code": "B748",
+        "model_name": "Boeing 747-8 (variant)",
+        "avgSeats": "467",
+        "maxSeats": "660",
+        "mpg": "9.5"
+    },
+    {
+        "": "130",
+        "icao_code": "A119",
+        "model_name": "DENEL Koala (variant)",
+        "avgSeats": "7",
+        "maxSeats": "8",
+        "mpg": "0.7"
+    },
+    {
+        "": "131",
+        "icao_code": "A359",
+        "model_name": "Airbus A350-900 (variant)",
+        "avgSeats": "300",
+        "maxSeats": "440",
+        "mpg": "4.1"
+    },
+    {
+        "": "132",
+        "icao_code": "B735",
+        "model_name": "Boeing 737-500 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.2"
+    },
+    {
+        "": "133",
+        "icao_code": "A346",
+        "model_name": "Airbus A340-600 (variant)",
+        "avgSeats": "326",
+        "maxSeats": "475",
+        "mpg": "6.5"
+    },
+    {
+        "": "134",
+        "icao_code": "B763",
+        "model_name": "Boeing 767-300 (variant)",
+        "avgSeats": "269",
+        "maxSeats": "375",
+        "mpg": "6.1"
+    },
+    {
+        "": "135",
+        "icao_code": "B739",
+        "model_name": "Boeing 737-900 (variant)",
+        "avgSeats": "180",
+        "maxSeats": "220",
+        "mpg": "3.7"
+    },
+    {
+        "": "136",
+        "icao_code": "E190",
+        "model_name": "Embraer ERJ-190 (variant)",
+        "avgSeats": "96",
+        "maxSeats": "114",
+        "mpg": "3.2"
+    },
+    {
+        "": "137",
+        "icao_code": "B738",
+        "model_name": "Boeing 737-800 (variant)",
+        "avgSeats": "162",
+        "maxSeats": "189",
+        "mpg": "3.6"
+    },
+    {
+        "": "138",
+        "icao_code": "E120",
+        "model_name": "Embraer EMB-120 Brasilia (variant)",
+        "avgSeats": "30",
+        "maxSeats": "30",
+        "mpg": "4.5"
+    },
+    {
+        "": "139",
+        "icao_code": "A35K",
+        "model_name": "Airbus A350-1000 (variant)",
+        "avgSeats": "350",
+        "maxSeats": "480",
+        "mpg": "4.3"
+    },
+    {
+        "": "140",
+        "icao_code": "B733",
+        "model_name": "Boeing 737-300 (variant)",
+        "avgSeats": "126",
+        "maxSeats": "149",
+        "mpg": "4.4"
+    },
+    {
+        "": "141",
+        "icao_code": "PC12",
+        "model_name": "Pilatus PC-12 (variant)",
+        "avgSeats": "9",
+        "maxSeats": "10",
+        "mpg": "5.0"
+    },
+    {
+        "": "142",
+        "icao_code": "CRJ9",
+        "model_name": "Bombardier CRJ-900 (variant)",
+        "avgSeats": "76",
+        "maxSeats": "90",
+        "mpg": "3.1"
+    },
+    {
+        "": "143",
+        "icao_code": "A306",
+        "model_name": "Airbus A300F4-600 (variant)",
+        "avgSeats": "Cargo Only",
+        "maxSeats": "Cargo Only",
+        "mpg": "5.5"
+    },
+    {
+        "": "144",
+        "icao_code": "C25C",
+        "model_name": "Cessna Citation CJ4 (variant)",
+        "avgSeats": "8",
+        "maxSeats": "10",
+        "mpg": "5.4"
+    },
+    {
+        "": "145",
+        "icao_code": "A148",
+        "model_name": "Antonov An-148 (variant)",
+        "avgSeats": "75",
+        "maxSeats": "85",
+        "mpg": "3.2"
+    },
+    {
+        "": "146",
+        "icao_code": "BCS1",
+        "model_name": "Airbus A220-100 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "135",
+        "mpg": "2.1"
+    },
+    {
+        "": "147",
+        "icao_code": "E190",
+        "model_name": "Embraer ERJ-190 (variant)",
+        "avgSeats": "96",
+        "maxSeats": "114",
+        "mpg": "3.2"
+    },
+    {
+        "": "148",
+        "icao_code": "SF34",
+        "model_name": "Saab 340 (variant)",
+        "avgSeats": "30",
+        "maxSeats": "36",
+        "mpg": "4.5"
+    },
+    {
+        "": "149",
+        "icao_code": "B789",
+        "model_name": "Boeing 787-9 Dreamliner (variant)",
+        "avgSeats": "296",
+        "maxSeats": "296",
+        "mpg": "4.1"
+    },
+    {
+        "": "150",
+        "icao_code": "C208",
+        "model_name": "Cessna 208 Caravan (variant)",
+        "avgSeats": "9",
+        "maxSeats": "14",
+        "mpg": "4.8"
+    },
+    {
+        "": "151",
+        "icao_code": "B77W",
+        "model_name": "Boeing 777-300ER (variant)",
+        "avgSeats": "396",
+        "maxSeats": "550",
+        "mpg": "7.6"
+    },
+    {
+        "": "152",
+        "icao_code": "C208",
+        "model_name": "Cessna 208 Caravan (variant)",
+        "avgSeats": "9",
+        "maxSeats": "14",
+        "mpg": "4.8"
+    },
+    {
+        "": "153",
+        "icao_code": "B763",
+        "model_name": "Boeing 767-300 (variant)",
+        "avgSeats": "269",
+        "maxSeats": "375",
+        "mpg": "6.1"
+    },
+    {
+        "": "154",
+        "icao_code": "A346",
+        "model_name": "Airbus A340-600 (variant)",
+        "avgSeats": "326",
+        "maxSeats": "475",
+        "mpg": "6.5"
+    },
+    {
+        "": "155",
+        "icao_code": "B748",
+        "model_name": "Boeing 747-8 (variant)",
+        "avgSeats": "467",
+        "maxSeats": "660",
+        "mpg": "9.5"
+    },
+    {
+        "": "156",
+        "icao_code": "B753",
+        "model_name": "Boeing 757-300 (variant)",
+        "avgSeats": "243",
+        "maxSeats": "295",
+        "mpg": "5.0"
+    },
+    {
+        "": "157",
+        "icao_code": "B736",
+        "model_name": "Boeing 737-600 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.0"
+    },
+    {
+        "": "158",
+        "icao_code": "A330",
+        "model_name": "Airbus A330 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.0"
+    },
+    {
+        "": "159",
+        "icao_code": "B732",
+        "model_name": "Boeing 737-200 (variant)",
+        "avgSeats": "115",
+        "maxSeats": "136",
+        "mpg": "5.0"
+    },
+    {
+        "": "160",
+        "icao_code": "B762",
+        "model_name": "Boeing 767-200 (variant)",
+        "avgSeats": "181",
+        "maxSeats": "255",
+        "mpg": "6.0"
+    },
+    {
+        "": "161",
+        "icao_code": "B772",
+        "model_name": "Boeing 777-200 (variant)",
+        "avgSeats": "314",
+        "maxSeats": "440",
+        "mpg": "7.5"
+    },
+    {
+        "": "162",
+        "icao_code": "BCS3",
+        "model_name": "Airbus A220-300 (variant)",
+        "avgSeats": "130",
+        "maxSeats": "160",
+        "mpg": "2.2"
+    },
+    {
+        "": "163",
+        "icao_code": "BE9L",
+        "model_name": "Beechcraft King Air 90 (variant)",
+        "avgSeats": "6",
+        "maxSeats": "7",
+        "mpg": "4.7"
+    },
+    {
+        "": "164",
+        "icao_code": "GLF6",
+        "model_name": "Gulfstream Aerospace Gulfstream G650 (variant)",
+        "avgSeats": "14",
+        "maxSeats": "19",
+        "mpg": "6.8"
+    },
+    {
+        "": "165",
+        "icao_code": "E170",
+        "model_name": "Embraer 170 (variant)",
+        "avgSeats": "66",
+        "maxSeats": "78",
+        "mpg": "3.1"
+    },
+    {
+        "": "166",
+        "icao_code": "B739",
+        "model_name": "Boeing 737-900 (variant)",
+        "avgSeats": "180",
+        "maxSeats": "220",
+        "mpg": "3.7"
+    },
+    {
+        "": "167",
+        "icao_code": "AT72",
+        "model_name": "ATR ATR-72 (variant)",
+        "avgSeats": "68",
+        "maxSeats": "78",
+        "mpg": "3.5"
+    },
+    {
+        "": "168",
+        "icao_code": "B712",
+        "model_name": "Boeing 717-200 (variant)",
+        "avgSeats": "106",
+        "maxSeats": "134",
+        "mpg": "3.3"
+    },
+    {
+        "": "169",
+        "icao_code": "AT43",
+        "model_name": "Aerospatiale ATR-42-300 (variant)",
+        "avgSeats": "42",
+        "maxSeats": "50",
+        "mpg": "3.2"
+    },
+    {
+        "": "170",
+        "icao_code": "A338",
+        "model_name": "Airbus A330-800 (variant)",
+        "avgSeats": "220",
+        "maxSeats": "406",
+        "mpg": "4.5"
+    },
+    {
+        "": "171",
+        "icao_code": "CRJ7",
+        "model_name": "Bombardier CRJ-700 (variant)",
+        "avgSeats": "66",
+        "maxSeats": "78",
+        "mpg": "3.2"
+    },
+    {
+        "": "172",
+        "icao_code": "A359",
+        "model_name": "Airbus A350-900 (variant)",
+        "avgSeats": "300",
+        "maxSeats": "440",
+        "mpg": "4.1"
+    },
+    {
+        "": "173",
+        "icao_code": "C525",
+        "model_name": "Cessna Citation CJ1 (variant)",
+        "avgSeats": "5",
+        "maxSeats": "6",
+        "mpg": "5.2"
+    },
+    {
+        "": "174",
+        "icao_code": "B737",
+        "model_name": "Boeing 737-700 (variant)",
+        "avgSeats": "126",
+        "maxSeats": "149",
+        "mpg": "3.8"
+    },
+    {
+        "": "175",
+        "icao_code": "GLF6",
+        "model_name": "Gulfstream Aerospace Gulfstream G650 (variant)",
+        "avgSeats": "14",
+        "maxSeats": "19",
+        "mpg": "6.8"
+    },
+    {
+        "": "176",
+        "icao_code": "A330",
+        "model_name": "Airbus A330 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.0"
+    },
+    {
+        "": "177",
+        "icao_code": "BE20",
+        "model_name": "Beechcraft King Air 200 (variant)",
+        "avgSeats": "9",
+        "maxSeats": "13",
+        "mpg": "4.5"
+    },
+    {
+        "": "178",
+        "icao_code": "A20N",
+        "model_name": "Airbus A320neo (variant)",
+        "avgSeats": "150",
+        "maxSeats": "186",
+        "mpg": "2.4"
+    },
+    {
+        "": "179",
+        "icao_code": "A310",
+        "model_name": "Airbus A310 (variant)",
+        "avgSeats": "280",
+        "maxSeats": "280",
+        "mpg": "5.0"
+    },
+    {
+        "": "180",
+        "icao_code": "CRJ7",
+        "model_name": "Bombardier CRJ-700 (variant)",
+        "avgSeats": "66",
+        "maxSeats": "78",
+        "mpg": "3.2"
+    },
+    {
+        "": "181",
+        "icao_code": "E295",
+        "model_name": "Embraer ERJ-190-400 (variant)",
+        "avgSeats": "120",
+        "maxSeats": "146",
+        "mpg": "2.9"
+    },
+    {
+        "": "182",
+        "icao_code": "A20N",
+        "model_name": "Airbus A320neo (variant)",
+        "avgSeats": "150",
+        "maxSeats": "186",
+        "mpg": "2.4"
+    },
+    {
+        "": "183",
+        "icao_code": "A359",
+        "model_name": "Airbus A350-900 (variant)",
+        "avgSeats": "300",
+        "maxSeats": "440",
+        "mpg": "4.1"
+    },
+    {
+        "": "184",
+        "icao_code": "F100",
+        "model_name": "Fokker 100 (variant)",
+        "avgSeats": "97",
+        "maxSeats": "122",
+        "mpg": "4.0"
+    },
+    {
+        "": "185",
+        "icao_code": "F100",
+        "model_name": "Fokker 100 (variant)",
+        "avgSeats": "97",
+        "maxSeats": "122",
+        "mpg": "4.0"
+    },
+    {
+        "": "186",
+        "icao_code": "SU95",
+        "model_name": "Sukhoi Superjet 100 (variant)",
+        "avgSeats": "87",
+        "maxSeats": "108",
+        "mpg": "3.6"
+    },
+    {
+        "": "187",
+        "icao_code": "B772",
+        "model_name": "Boeing 777-200 (variant)",
+        "avgSeats": "314",
+        "maxSeats": "440",
+        "mpg": "7.5"
+    },
+    {
+        "": "188",
+        "icao_code": "A109",
+        "model_name": "SABCA A-109 (variant)",
+        "avgSeats": "7",
+        "maxSeats": "8",
+        "mpg": "0.6"
+    },
+    {
+        "": "189",
+        "icao_code": "B739",
+        "model_name": "Boeing 737-900 (variant)",
+        "avgSeats": "180",
+        "maxSeats": "220",
+        "mpg": "3.7"
+    },
+    {
+        "": "190",
+        "icao_code": "A333",
+        "model_name": "Airbus A330-300 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.2"
+    },
+    {
+        "": "191",
+        "icao_code": "PC12",
+        "model_name": "Pilatus PC-12 (variant)",
+        "avgSeats": "9",
+        "maxSeats": "10",
+        "mpg": "5.0"
+    },
+    {
+        "": "192",
+        "icao_code": "B739",
+        "model_name": "Boeing 737-900 (variant)",
+        "avgSeats": "180",
+        "maxSeats": "220",
+        "mpg": "3.7"
+    },
+    {
+        "": "193",
+        "icao_code": "BCS3",
+        "model_name": "Airbus A220-300 (variant)",
+        "avgSeats": "130",
+        "maxSeats": "160",
+        "mpg": "2.2"
+    },
+    {
+        "": "194",
+        "icao_code": "A332",
+        "model_name": "Airbus A330-200 (variant)",
+        "avgSeats": "246",
+        "maxSeats": "406",
+        "mpg": "4.9"
+    },
+    {
+        "": "195",
+        "icao_code": "B764",
+        "model_name": "Boeing 767-400 (variant)",
+        "avgSeats": "304",
+        "maxSeats": "375",
+        "mpg": "6.2"
+    },
+    {
+        "": "196",
+        "icao_code": "A359",
+        "model_name": "Airbus A350-900 (variant)",
+        "avgSeats": "300",
+        "maxSeats": "440",
+        "mpg": "4.1"
+    },
+    {
+        "": "197",
+        "icao_code": "B38M",
+        "model_name": "Boeing 737 MAX 8 (variant)",
+        "avgSeats": "178",
+        "maxSeats": "210",
+        "mpg": "2.6"
+    },
+    {
+        "": "198",
+        "icao_code": "C525",
+        "model_name": "Cessna Citation CJ1 (variant)",
+        "avgSeats": "5",
+        "maxSeats": "6",
+        "mpg": "5.2"
+    },
+    {
+        "": "199",
+        "icao_code": "CRJ2",
+        "model_name": "Bombardier CRJ-200 (variant)",
+        "avgSeats": "50",
+        "maxSeats": "50",
+        "mpg": "3.4"
+    },
+    {
+        "": "200",
+        "icao_code": "B752",
+        "model_name": "Boeing 757-200 (variant)",
+        "avgSeats": "200",
+        "maxSeats": "239",
+        "mpg": "4.8"
+    },
+    {
+        "": "201",
+        "icao_code": "BE20",
+        "model_name": "Beechcraft King Air 200 (variant)",
+        "avgSeats": "9",
+        "maxSeats": "13",
+        "mpg": "4.5"
+    },
+    {
+        "": "202",
+        "icao_code": "B77W",
+        "model_name": "Boeing 777-300ER (variant)",
+        "avgSeats": "396",
+        "maxSeats": "550",
+        "mpg": "7.6"
+    },
+    {
+        "": "203",
+        "icao_code": "DH8D",
+        "model_name": "de Havilland Dash 8-400 (variant)",
+        "avgSeats": "78",
+        "maxSeats": "90",
+        "mpg": "4.2"
+    },
+    {
+        "": "204",
+        "icao_code": "A321",
+        "model_name": "Airbus A321 (variant)",
+        "avgSeats": "185",
+        "maxSeats": "236",
+        "mpg": "2.9"
+    },
+    {
+        "": "205",
+        "icao_code": "E190",
+        "model_name": "Embraer ERJ-190 (variant)",
+        "avgSeats": "96",
+        "maxSeats": "114",
+        "mpg": "3.2"
+    },
+    {
+        "": "206",
+        "icao_code": "BE9L",
+        "model_name": "Beechcraft King Air 90 (variant)",
+        "avgSeats": "6",
+        "maxSeats": "7",
+        "mpg": "4.7"
+    },
+    {
+        "": "207",
+        "icao_code": "E295",
+        "model_name": "Embraer ERJ-190-400 (variant)",
+        "avgSeats": "120",
+        "maxSeats": "146",
+        "mpg": "2.9"
+    },
+    {
+        "": "208",
+        "icao_code": "A332",
+        "model_name": "Airbus A330-200 (variant)",
+        "avgSeats": "246",
+        "maxSeats": "406",
+        "mpg": "4.9"
+    },
+    {
+        "": "209",
+        "icao_code": "CRJ9",
+        "model_name": "Bombardier CRJ-900 (variant)",
+        "avgSeats": "76",
+        "maxSeats": "90",
+        "mpg": "3.1"
+    },
+    {
+        "": "210",
+        "icao_code": "BCS1",
+        "model_name": "Airbus A220-100 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "135",
+        "mpg": "2.1"
+    },
+    {
+        "": "211",
+        "icao_code": "B735",
+        "model_name": "Boeing 737-500 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.2"
+    },
+    {
+        "": "212",
+        "icao_code": "B77L",
+        "model_name": "Boeing 777-200LR (variant)",
+        "avgSeats": "317",
+        "maxSeats": "440",
+        "mpg": "7.2"
+    },
+    {
+        "": "213",
+        "icao_code": "A332",
+        "model_name": "Airbus A330-200 (variant)",
+        "avgSeats": "246",
+        "maxSeats": "406",
+        "mpg": "4.9"
+    },
+    {
+        "": "214",
+        "icao_code": "B763",
+        "model_name": "Boeing 767-300 (variant)",
+        "avgSeats": "269",
+        "maxSeats": "375",
+        "mpg": "6.1"
+    },
+    {
+        "": "215",
+        "icao_code": "A35K",
+        "model_name": "Airbus A350-1000 (variant)",
+        "avgSeats": "350",
+        "maxSeats": "480",
+        "mpg": "4.3"
+    },
+    {
+        "": "216",
+        "icao_code": "B733",
+        "model_name": "Boeing 737-300 (variant)",
+        "avgSeats": "126",
+        "maxSeats": "149",
+        "mpg": "4.4"
+    },
+    {
+        "": "217",
+        "icao_code": "E75S",
+        "model_name": "Embraer ERJ 175 (variant)",
+        "avgSeats": "76",
+        "maxSeats": "88",
+        "mpg": "3.1"
+    },
+    {
+        "": "218",
+        "icao_code": "A400",
+        "model_name": "AIRBUS A-400M Atlas (variant)",
+        "avgSeats": "Cargo Only",
+        "maxSeats": "Cargo Only",
+        "mpg": "7.0"
+    },
+    {
+        "": "219",
+        "icao_code": "BE20",
+        "model_name": "Beechcraft King Air 200 (variant)",
+        "avgSeats": "9",
+        "maxSeats": "13",
+        "mpg": "4.5"
+    },
+    {
+        "": "220",
+        "icao_code": "A388",
+        "model_name": "Airbus A380-800 (variant)",
+        "avgSeats": "555",
+        "maxSeats": "853",
+        "mpg": "8.5"
+    },
+    {
+        "": "221",
+        "icao_code": "C750",
+        "model_name": "Cessna Citation X (variant)",
+        "avgSeats": "8",
+        "maxSeats": "12",
+        "mpg": "6.8"
+    },
+    {
+        "": "222",
+        "icao_code": "E170",
+        "model_name": "Embraer 170 (variant)",
+        "avgSeats": "66",
+        "maxSeats": "78",
+        "mpg": "3.1"
+    },
+    {
+        "": "223",
+        "icao_code": "B735",
+        "model_name": "Boeing 737-500 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.2"
+    },
+    {
+        "": "224",
+        "icao_code": "E120",
+        "model_name": "Embraer EMB-120 Brasilia (variant)",
+        "avgSeats": "30",
+        "maxSeats": "30",
+        "mpg": "4.5"
+    },
+    {
+        "": "225",
+        "icao_code": "B733",
+        "model_name": "Boeing 737-300 (variant)",
+        "avgSeats": "126",
+        "maxSeats": "149",
+        "mpg": "4.4"
+    },
+    {
+        "": "226",
+        "icao_code": "A339",
+        "model_name": "Airbus A330-900 (variant)",
+        "avgSeats": "287",
+        "maxSeats": "440",
+        "mpg": "4.6"
+    },
+    {
+        "": "227",
+        "icao_code": "DHC6",
+        "model_name": "De Havilland Canada DHC-6 Twin Otter (variant)",
+        "avgSeats": "19",
+        "maxSeats": "20",
+        "mpg": "5.0"
+    },
+    {
+        "": "228",
+        "icao_code": "GLF5",
+        "model_name": "Gulfstream Aerospace Gulfstream V (variant)",
+        "avgSeats": "14",
+        "maxSeats": "19",
+        "mpg": "7.1"
+    },
+    {
+        "": "229",
+        "icao_code": "C172",
+        "model_name": "Cessna 172 Skyhawk (variant)",
+        "avgSeats": "4",
+        "maxSeats": "4",
+        "mpg": "4.3"
+    },
+    {
+        "": "230",
+        "icao_code": "AT72",
+        "model_name": "ATR ATR-72 (variant)",
+        "avgSeats": "68",
+        "maxSeats": "78",
+        "mpg": "3.5"
+    },
+    {
+        "": "231",
+        "icao_code": "E295",
+        "model_name": "Embraer ERJ-190-400 (variant)",
+        "avgSeats": "120",
+        "maxSeats": "146",
+        "mpg": "2.9"
+    },
+    {
+        "": "232",
+        "icao_code": "B734",
+        "model_name": "Boeing 737-400 (variant)",
+        "avgSeats": "147",
+        "maxSeats": "188",
+        "mpg": "4.5"
+    },
+    {
+        "": "233",
+        "icao_code": "B762",
+        "model_name": "Boeing 767-200 (variant)",
+        "avgSeats": "181",
+        "maxSeats": "255",
+        "mpg": "6.0"
+    },
+    {
+        "": "234",
+        "icao_code": "A19N",
+        "model_name": "Airbus A319neo (variant)",
+        "avgSeats": "124",
+        "maxSeats": "156",
+        "mpg": "2.5"
+    },
+    {
+        "": "235",
+        "icao_code": "C525",
+        "model_name": "Cessna Citation CJ1 (variant)",
+        "avgSeats": "5",
+        "maxSeats": "6",
+        "mpg": "5.2"
+    },
+    {
+        "": "236",
+        "icao_code": "A319",
+        "model_name": "Airbus A319 (variant)",
+        "avgSeats": "124",
+        "maxSeats": "156",
+        "mpg": "2.7"
+    },
+    {
+        "": "237",
+        "icao_code": "B744",
+        "model_name": "Boeing 747-400 (variant)",
+        "avgSeats": "416",
+        "maxSeats": "660",
+        "mpg": "10.5"
+    },
+    {
+        "": "238",
+        "icao_code": "B77L",
+        "model_name": "Boeing 777-200LR (variant)",
+        "avgSeats": "317",
+        "maxSeats": "440",
+        "mpg": "7.2"
+    },
+    {
+        "": "239",
+        "icao_code": "B752",
+        "model_name": "Boeing 757-200 (variant)",
+        "avgSeats": "200",
+        "maxSeats": "239",
+        "mpg": "4.8"
+    },
+    {
+        "": "240",
+        "icao_code": "B735",
+        "model_name": "Boeing 737-500 (variant)",
+        "avgSeats": "108",
+        "maxSeats": "132",
+        "mpg": "4.2"
+    },
+    {
+        "": "241",
+        "icao_code": "BE20",
+        "model_name": "Beechcraft King Air 200 (variant)",
+        "avgSeats": "9",
+        "maxSeats": "13",
+        "mpg": "4.5"
+    },
+    {
+        "": "242",
+        "icao_code": "B734",
+        "model_name": "Boeing 737-400 (variant)",
+        "avgSeats": "147",
+        "maxSeats": "188",
+        "mpg": "4.5"
+    },
+    {
+        "": "243",
+        "icao_code": "A320",
+        "model_name": "Airbus A320 (variant)",
+        "avgSeats": "150",
+        "maxSeats": "186",
+        "mpg": "2.7"
+    },
+    {
+        "": "244",
+        "icao_code": "AT72",
+        "model_name": "ATR ATR-72 (variant)",
+        "avgSeats": "68",
+        "maxSeats": "78",
+        "mpg": "3.5"
+    },
+    {
+        "": "245",
+        "icao_code": "C525",
+        "model_name": "Cessna Citation CJ1 (variant)",
+        "avgSeats": "5",
+        "maxSeats": "6",
+        "mpg": "5.2"
+    },
+    {
+        "": "246",
+        "icao_code": "A338",
+        "model_name": "Airbus A330-800 (variant)",
+        "avgSeats": "220",
+        "maxSeats": "406",
+        "mpg": "4.5"
+    },
+    {
+        "": "247",
+        "icao_code": "A346",
+        "model_name": "Airbus A340-600 (variant)",
+        "avgSeats": "326",
+        "maxSeats": "475",
+        "mpg": "6.5"
+    },
+    {
+        "": "248",
+        "icao_code": "B748",
+        "model_name": "Boeing 747-8 (variant)",
+        "avgSeats": "467",
+        "maxSeats": "660",
+        "mpg": "9.5"
+    },
+    {
+        "": "249",
+        "icao_code": "A330",
+        "model_name": "Airbus A330 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.0"
+    },
+    {
+        "": "250",
+        "icao_code": "B787",
+        "model_name": "Boeing 787-8 (variant)",
+        "avgSeats": "242",
+        "maxSeats": "296",
+        "mpg": "4.2"
+    },
+    {
+        "": "251",
+        "icao_code": "F100",
+        "model_name": "Fokker 100 (variant)",
+        "avgSeats": "97",
+        "maxSeats": "122",
+        "mpg": "4.0"
+    },
+    {
+        "": "252",
+        "icao_code": "A330",
+        "model_name": "Airbus A330 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.0"
+    },
+    {
+        "": "253",
+        "icao_code": "A332",
+        "model_name": "Airbus A330-200 (variant)",
+        "avgSeats": "246",
+        "maxSeats": "406",
+        "mpg": "4.9"
+    },
+    {
+        "": "254",
+        "icao_code": "DH8A",
+        "model_name": "de Havilland Dash 8-100 (variant)",
+        "avgSeats": "37",
+        "maxSeats": "39",
+        "mpg": "3.8"
+    },
+    {
+        "": "255",
+        "icao_code": "B789",
+        "model_name": "Boeing 787-9 Dreamliner (variant)",
+        "avgSeats": "296",
+        "maxSeats": "296",
+        "mpg": "4.1"
+    },
+    {
+        "": "256",
+        "icao_code": "A306",
+        "model_name": "Airbus A300F4-600 (variant)",
+        "avgSeats": "Cargo Only",
+        "maxSeats": "Cargo Only",
+        "mpg": "5.5"
+    },
+    {
+        "": "257",
+        "icao_code": "A330",
+        "model_name": "Airbus A330 (variant)",
+        "avgSeats": "277",
+        "maxSeats": "440",
+        "mpg": "5.0"
+    },
+    {
+        "": "258",
+        "icao_code": "A338",
+        "model_name": "Airbus A330-800 (variant)",
+        "avgSeats": "220",
+        "maxSeats": "406",
+        "mpg": "4.5"
+    },
+    {
+        "": "259",
+        "icao_code": "B78X",
+        "model_name": "Boeing 787-10 Dreamliner (variant)",
+        "avgSeats": "318",
+        "maxSeats": "440",
+        "mpg": "4.3"
+    },
+    {
+        "": "260",
+        "icao_code": "B789",
+        "model_name": "Boeing 787-9 Dreamliner (variant)",
+        "avgSeats": "296",
+        "maxSeats": "296",
+        "mpg": "4.1"
+    },
+    {
+        "": "261",
+        "icao_code": "A139",
+        "model_name": "BELL-AGUSTA AB-139 (variant)",
+        "avgSeats": "15",
+        "maxSeats": "15",
+        "mpg": "1.1"
+    },
+    {
+        "": "262",
+        "icao_code": "A306",
+        "model_name": "Airbus A300F4-600 (variant)",
+        "avgSeats": "Cargo Only",
+        "maxSeats": "Cargo Only",
+        "mpg": "5.5"
+    },
+    {
+        "": "263",
+        "icao_code": "E75S",
+        "model_name": "Embraer ERJ 175 (variant)",
+        "avgSeats": "76",
+        "maxSeats": "88",
+        "mpg": "3.1"
+    },
+    {
+        "": "264",
+        "icao_code": "E190",
+        "model_name": "Embraer ERJ-190 (variant)",
+        "avgSeats": "96",
+        "maxSeats": "114",
+        "mpg": "3.2"
+    },
+    {
+        "": "265",
+        "icao_code": "B732",
+        "model_name": "Boeing 737-200 (variant)",
+        "avgSeats": "115",
+        "maxSeats": "136",
+        "mpg": "5.0"
+    },
+    {
+        "": "266",
+        "icao_code": "CRJ9",
+        "model_name": "Bombardier CRJ-900 (variant)",
+        "avgSeats": "76",
+        "maxSeats": "90",
+        "mpg": "3.1"
+    },
+    {
+        "": "267",
+        "icao_code": "AT43",
+        "model_name": "Aerospatiale ATR-42-300 (variant)",
+        "avgSeats": "42",
+        "maxSeats": "50",
+        "mpg": "3.2"
+    },
+    {
+        "": "268",
+        "icao_code": "C208",
+        "model_name": "Cessna 208 Caravan (variant)",
+        "avgSeats": "9",
+        "maxSeats": "14",
+        "mpg": "4.8"
+    },
+    {
+        "": "269",
+        "icao_code": "B738",
+        "model_name": "Boeing 737-800 (variant)",
+        "avgSeats": "162",
+        "maxSeats": "189",
+        "mpg": "3.6"
+    },
+    {
+        "": "270",
+        "icao_code": "C208",
+        "model_name": "Cessna 208 Caravan (variant)",
+        "avgSeats": "9",
+        "maxSeats": "14",
+        "mpg": "4.8"
+    },
+    {
+        "": "271",
+        "icao_code": "B787",
+        "model_name": "Boeing 787-8 (variant)",
+        "avgSeats": "242",
+        "maxSeats": "296",
+        "mpg": "4.2"
+    },
+    {
+        "": "272",
+        "icao_code": "A119",
+        "model_name": "DENEL Koala (variant)",
+        "avgSeats": "7",
+        "maxSeats": "8",
+        "mpg": "0.7"
+    },
+    {
+        "": "273",
+        "icao_code": "A346",
+        "model_name": "Airbus A340-600 (variant)",
+        "avgSeats": "326",
+        "maxSeats": "475",
+        "mpg": "6.5"
+    },
+    {
+        "": "274",
+        "icao_code": "A359",
+        "model_name": "Airbus A350-900 (variant)",
+        "avgSeats": "300",
+        "maxSeats": "440",
+        "mpg": "4.1"
+    }
+]
