@@ -1,7 +1,8 @@
 # PantherHacks
 
-## **Fork Note
-  While this project was forked from our Hackathon repository due to a security issue, credit goes to all 4 members listed in Contributors.
+## **Fork Note**
+  While this project was moved from our Hackathon repository due to a security issue, credit goes to all 4 members listed in Contributors. The original repository, if made public
+  can be found at https://github.com/divinewton/PantherHacks
 
 ## **Flight Conscious**
   Flight Conscious is a sustainable aviation web application that calculates the carbon emissions of your flights and recommends more enviromentally friendly flight alternatives.
@@ -74,7 +75,7 @@
   1. Providing alternative flight options to reduce carbon footprint
 
 ## **Contributors**
-  1. Josh Vaysman
+  1. Joshua Vaysman
   2. Noslen Cruz-Muniz
   3. Divi Newton
   4. Julia Nguyen
